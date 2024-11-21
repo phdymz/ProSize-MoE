@@ -1,0 +1,8 @@
+# @package _global_
+
+model:
+  pooling: null
+
+training:
+  epochs: 100
+  batch_size: 50

@@ -1,0 +1,10 @@
+# @package _global_
+
+model:
+  pooling: mean
+  gnn_type: gin
+  aggregation: concat
+
+training:
+  lr: 0.001
+  epochs: 50

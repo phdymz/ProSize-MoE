@@ -1,0 +1,8 @@
+# @package _global_
+
+model:
+  aggregation: concat
+
+training:
+  lr: 0.001
+  epochs: 50
