@@ -45,4 +45,4 @@ python experiments/train.py task=enzyme_class representation=graph
 
 # ❀ Acknowledgments
 In this project we use (parts of) the official implementations of the following works: 
-- [ProteinShake]([https://github.com/mbanani/unsupervisedRR](https://github.com/BorgwardtLab/proteinshake_models))
+- [ProteinShake]([https://github.com/BorgwardtLab/proteinshake_models])
